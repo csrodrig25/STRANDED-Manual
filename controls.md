@@ -10,23 +10,23 @@ permalink: /controls
 ## Movement
 
 Walk forwards
-: Gamepad: `Right`
+: Gamepad: ` Right `
 
-: Keyboard: `D`
+: Keyboard: ` D `
 
 Walk backwards
-: Gamepad: `Left`
+: Gamepad: ` Left `
 
-: Keyboard: `A`
+: Keyboard: ` A `
 
 Jump
-: Gamepad: `A`
+: Gamepad: ` A `
 
-: Keyboard: `Space`
+: Keyboard: ` Space `
 
 ## Actions
 
 Shoot a projectile
-: Gamepad: `B`
+: Gamepad: ` B `
 
-: Keyboard: `Enter/Return`
+: Keyboard: ` Enter/Return `
