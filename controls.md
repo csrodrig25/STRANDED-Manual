@@ -10,23 +10,39 @@ permalink: /controls
 ## Movement
 
 Walk forwards
-: Gamepad: ` Right `
+: Gamepad:
+Right
+{: .label .label-purple }
 
-: Keyboard: ` D `
+: Keyboard:
+D
+{: .label .label-blue }
 
 Walk backwards
-: Gamepad: ` Left `
+: Gamepad:
+Left
+{: .label .label-purple }
 
-: Keyboard: ` A `
+: Keyboard:
+A
+{: .label .label-blue }
 
 Jump
-: Gamepad: ` A `
+: Gamepad:
+A
+{: .label .label-purple }
 
-: Keyboard: ` Space `
+: Keyboard:
+Space
+{: .label .label-blue }
 
 ## Actions
 
 Shoot a projectile
-: Gamepad: ` B `
+: Gamepad:
+B
+{: .label .label-purple }
 
-: Keyboard: ` Enter/Return `
+: Keyboard:
+Enter / Return
+{: .label .label-blue }
