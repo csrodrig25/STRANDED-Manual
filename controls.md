@@ -13,12 +13,12 @@ Walk forwards
 : Gamepad: `Right`
 
 
-: Keyboard: `D`
+: Keyboard: `D/Right`
 
 Walk backwards
 : Gamepad: `Left`
 
-: Keyboard: `A`
+: Keyboard: `A/Left`
 
 Jump
 : Gamepad: `A`
