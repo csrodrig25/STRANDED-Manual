@@ -5,9 +5,9 @@ nav_order: 2
 permalink: /controls
 ---
 
-# Basic controls
+# BASIC CONTROLS
 
-## Movement
+## MOVEMENT
 
 Walk forwards
 : Gamepad: `Right`
@@ -25,7 +25,7 @@ Jump
 
 : Keyboard: `Space`
 
-## Actions
+## ACTIONS
 
 Shoot a projectile
 : Gamepad: `B`
