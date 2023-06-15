@@ -5,7 +5,7 @@ nav_order: 99
 permalink: /copyright
 ---
 
-# Copyright information
+# COPYRIGHT INFORMATION
 
 ```
     STRANDED: FIND YOUR WAY BACK HOME.
